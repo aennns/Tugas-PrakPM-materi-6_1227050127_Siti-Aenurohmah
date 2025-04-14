@@ -1,1 +1,2 @@
-# Tugas-PrakPM-materi-6_1227050127_Siti-Aenurohmah
+# Tugas-PrakPM-materi-6_1227050127_Siti-Aenurohmah<cd>
+Dataset yang digunakan adalah dataset Wine Recognition, dimana ini adalah kumpulan data hasil pengukuran kimia dari 3 jenis anggur (wine) yang ditanam di wilayah yang sama di Italia. Dataset ini bertujuan untuk mengklasifikasikan wine ke dalam 3 kategori berdasarkan komposisi kimiawinya. lebih lengkapnya bisa diakses di tautan ini (https://archive.ics.uci.edu/dataset/109/wine).
